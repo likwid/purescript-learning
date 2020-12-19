@@ -1,0 +1,14 @@
+{
+  "name": "purescript-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeff Gonzalez <likwid@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "purescript": "^0.13.8",
+    "spago": "^0.17.0"
+  }, 
+  "scripts": {
+    "build": "yarn spago build"
+  }
+}
